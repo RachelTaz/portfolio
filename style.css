@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+  }
+.city-box {
+    width:100%;
+    height:400px;
+}
+.city-style {
+    font-family: arial;
+    color: white;
+    text-align: center
+}
+h5{
+    font-family: Arial;
+    text-align: center;
+    color: burlywood;
+}
+#prague-photo{
+    background-image: url("images/Prague.jpg");
+    background-size: cover;
+}
+#bratislava-photo{
+    background-image: url("images/bratislava.jpg");
+    background-size: cover;
+}
+#budapest-photo{
+    background-image: url("images/budapest.jpg");
+    background-size: cover;
+}
+#warsaw-photo{
+    background-image: url("images/warsaw.jpg");
+    background-size: cover;
+}
